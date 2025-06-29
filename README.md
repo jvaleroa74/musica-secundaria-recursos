@@ -22,13 +22,11 @@ Este repositorio está **completamente estructurado según el currículo oficial
 
 ## 📁 Organización curricular
 
-### 🏆 **1º ESO** (Prehistoria → Edad Antigua)
+### 🏆 **1º ESO** 
 ```
 📂 1º-ESO/
 ├── 🎧 A-Escucha-Percepcion/
-│   ├── 🗿 Prehistoria/
-│   ├── 🏛️ Edad-Antigua/
-│   └── 🎵 Elementos-Basicos/
+│   │   └── 🎵 Elementos-Basicos/
 ├── 🎭 B-Interpretacion-Creacion/
 │   ├── 📜 Partituras-Sencillas/
 │   ├── 🎹 Tecnicas-Basicas/
