@@ -83,7 +83,7 @@ Basándome en la **metodología Orff**, creo firmemente en:
 
 ## 📬 Contacto
 
-- 💌 **Email**: [Tu email si quieres compartirlo]
+- 💌 **Email**: juan.valero@educa.madrid.org
 - 🐙 **GitHub**: [@jvaleroa74](https://github.com/jvaleroa74)
 - 💬 **Issues**: Para sugerencias, errores o preguntas sobre el material
 
