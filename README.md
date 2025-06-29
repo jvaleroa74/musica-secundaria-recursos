@@ -13,39 +13,83 @@
 
 ## 🎯 ¿Qué encontrarás aquí?
 
-Este repositorio está **en construcción** 🚧. Durante este curso escolar iré subiendo materiales que he ido desarrollando y creando para mis clases, incluyendo:
+Este repositorio está **completamente estructurado según el currículo oficial** de la Comunidad de Madrid. Durante este curso escolar iré subiendo materiales organizados por:
 
-- 📝 **Ejercicios prácticos** adaptados a 1º y 3º ESO
-- 🎼 **Partituras** y arreglos para el aula
-- 🎵 **Recursos de metodología Orff** (instrumental, movimiento, canto)
-- 📚 **Apuntes teóricos** explicados de forma sencilla
-- 🎮 **Actividades lúdicas** para aprender música de forma divertida
-- 🔗 **Enlaces a herramientas digitales** útiles para profesores y estudiantes
+- 📚 **Competencias específicas** y criterios de evaluación
+- 📅 **Períodos históricos** correspondientes a cada curso
+- 🎭 **Bloques curriculares** oficiales (A, B, C)
+- 🎵 **Metodología Orff** integrada en todos los niveles
 
-## 📁 Organización del contenido
+## 📁 Organización curricular
 
+### 🏆 **1º ESO** (Prehistoria → Edad Antigua)
 ```
-📂 partituras/
-├── 🎹 piano/
-├── 🎸 instrumental-orff/
-└── 🎤 canto/
-
-📂 ejercicios/
-├── 📖 1º-ESO/
-└── 📖 3º-ESO/
-
-📂 teoria/
-├── 🎵 lenguaje-musical/
-└── 📜 historia-musica/
-
-📂 metodologia-orff/
-├── 🥁 instrumentos/
-├── 💃 movimiento/
-└── 🎭 dramatizacion/
-
-📂 recursos-digitales/
-└── 🔗 herramientas-online/
+📂 1º-ESO/
+├── 🎧 A-Escucha-Percepcion/
+│   ├── 🗿 Prehistoria/
+│   ├── 🏛️ Edad-Antigua/
+│   └── 🎵 Elementos-Basicos/
+├── 🎭 B-Interpretacion-Creacion/
+│   ├── 📜 Partituras-Sencillas/
+│   ├── 🎹 Tecnicas-Basicas/
+│   └── 🎨 Improvisacion-Pautada/
+├── 🌍 C-Contextos-Culturas/
+│   ├── 🎼 Musica-Occidental/
+│   ├── 🌏 Musicas-Indigenas/
+│   ├── 🇪🇸 Tradiciones-Españolas/
+│   └── 🎷 Jazz-Pop-Urbana/
+└── 📊 Evaluacion/
+    ├── 🗺️ Mapas-Competencias/
+    ├── ✅ Criterios-Evaluacion/
+    └── 📋 Rubricas/
 ```
+
+### 🎓 **3º ESO** (Medievo → Edad Contemporánea)
+```
+📂 3º-ESO/
+├── 🎧 A-Escucha-Percepcion/
+│   ├── 🏰 Medievo/
+│   ├── 🎨 Edad-Moderna/
+│   ├── 🎭 Edad-Contemporanea/
+│   └── 💻 Herramientas-Digitales/
+├── 🎭 B-Interpretacion-Creacion/
+│   ├── 🎼 Lenguaje-Musical-Avanzado/
+│   ├── 🎥 Proyectos-Audiovisuales/
+│   ├── 🔧 Herramientas-Digitales-Creacion/
+│   └── ©️ Propiedad-Intelectual/
+├── 🌍 C-Contextos-Culturas/
+│   ├── 🏰 Medieval/
+│   ├── 🎨 Renacimiento/
+│   ├── 🎻 Barroco/
+│   ├── 🎹 Clasicismo/
+│   ├── 🌹 Romanticismo/
+│   ├── 🔮 Siglo-XX/
+│   └── 📺 Medios-Audiovisuales/
+└── 📊 Evaluacion/
+    ├── 🗺️ Mapas-Competencias/
+    ├── ✅ Criterios-Evaluacion/
+    └── 📋 Rubricas/
+```
+
+### 🔄 **Recursos Transversales**
+```
+📂 Recursos-Transversales/
+├── 🎭 Metodologia-Orff/
+├── 💻 Herramientas-Digitales/
+└── 📋 Plantillas-Evaluacion/
+```
+
+## 🎯 Marco competencial
+
+### ✨ **4 Competencias Específicas**
+1. **🔍 CE1**: Analizar obras de diferentes épocas y culturas
+2. **🎨 CE2**: Explorar posibilidades expresivas  
+3. **🎭 CE3**: Interpretar piezas musicales y dancísticas
+4. **⚡ CE4**: Elaborar obras artístico-musicales
+
+### 📊 **Criterios de Evaluación**
+- **1º ESO**: 6 criterios específicos (nivel básico/guiado)
+- **3º ESO**: 7 criterios específicos (nivel avanzado/autónomo)
 
 ## 🎓 Para estudiantes
 
@@ -53,7 +97,7 @@ Este repositorio está **en construcción** 🚧. Durante este curso escolar ir�
 
 - ✅ Podéis descargar y usar todo el material libremente
 - 💡 Perfecto para repasar en casa o preparar exámenes
-- 🎯 Todo está adaptado a vuestro nivel (1º y 3º ESO)
+- 🎯 Todo está adaptado a vuestro nivel específico
 - ❓ Si tenéis dudas, podéis contactarme
 
 ## 👥 Para profesores
@@ -81,6 +125,16 @@ Basándome en la **metodología Orff**, creo firmemente en:
 - 🎨 **Creatividad**: Cada estudiante puede aportar algo único
 - 😊 **Diversión**: Si no es divertido, no es efectivo
 
+## 📈 Novedades de la reestructuración
+
+### 🆕 **¡Completamente renovado!** (Junio 2025)
+- ✅ **100% alineado** con currículo oficial de Madrid
+- ✅ **Organización por competencias** específicas
+- ✅ **Progresión pedagógica** clara entre cursos
+- ✅ **Rúbricas y criterios** de evaluación específicos
+- ✅ **Mapas de competencias** detallados
+- ✅ **Recursos transversales** para ambos cursos
+
 ## 📬 Contacto
 
 - 💌 **Email**: juan.valero@educa.madrid.org
@@ -97,9 +151,10 @@ Este material está disponible bajo licencia Creative Commons. Puedes usar, modi
 - A la comunidad educativa que comparte conocimiento
 - Al Conservatorio Superior de Música de Murcia por mi formación
 - A Carl Orff por su maravillosa metodología
+- A la comunidad de GitHub por facilitar la colaboración
 
 ---
 
 *"La música es un lenguaje universal que todos podemos aprender a hablar"* 🌍🎵
 
-**¡Que disfrutes explorando estos recursos!** ✨
+**¡Que disfrutes explorando estos recursos curriculares!** ✨
