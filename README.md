@@ -103,13 +103,18 @@ Competencia específica 1.
     -1.1. Identificar los principales rasgos estilísticos de obras musicales y dancísticas de culturas desde el Medievo hasta la Edad Contemporánea, evidenciando una actitud de apertura, interés y respeto en la escucha o el visionado de las mismas. 
     -1.2. Explicar, con actitud abierta y respetuosa, las funciones desempeñadas por determinadas producciones musicales y dancísticas, relacionándolas con las principales características de su situación histórica, social y cultural. 
     -1.3. Establecer conexiones entre manifestaciones musicales y dancísticas de diferentes culturas a lo largo de la Edad Media, Moderna, valorando su influencia sobre la música y la danza de la Edad contemporánea y de la actualidad. 
-                Competencia específica 2. 
+
+Competencia específica 2. 
     -2.1. Expresar ideas, sentimientos y emociones en actividades pautadas de improvisación, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos. 
-                Competencia específica 3. 
-    -3.1. Leer partituras, identificando los elementos básicos del lenguaje musical, con o sin apoyo de la audición. 
-    -3.2. Interpretar con corrección piezas musicales y dancísticas sencillas, individuales y grupales, dentro y fuera del aula, gestionando de forma guiada la ansiedad y el miedo escénico, y manteniendo la concentración. 
-                Competencia específica 4. 
-    -4.1. Participar activamente en la planificación y en la ejecución de propuestas artístico- musicales colaborativas, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.
+
+Competencia específica 3. 
+
+-3.1. Leer partituras, identificando los elementos básicos del lenguaje musical, con o sin apoyo de la audición. 
+-3.2. Interpretar con corrección piezas musicales y dancísticas sencillas, individuales y grupales, dentro y fuera del aula, gestionando de forma guiada la ansiedad y el miedo escénico, y manteniendo la concentración. 
+
+Competencia específica 4. 
+
+-4.1. Participar activamente en la planificación y en la ejecución de propuestas artístico- musicales colaborativas, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.
 
 ## 🎓 Para estudiantes
 
